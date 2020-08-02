@@ -1,3 +1,3 @@
 
-<h1><b>A simple Kotlin Application with my face on it!!</hl></b>
+<h1><b>A simple Kotlin application that uses a (first-person Image) ImageView!!</hl></b>
 
